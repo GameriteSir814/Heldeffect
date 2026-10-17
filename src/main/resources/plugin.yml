@@ -1,0 +1,9 @@
+name: HeldEffect
+version: 1.0
+main: com.heldeffect.HeldEffect
+api-version: '1.21'
+commands:
+  he:
+    description: Give the held item a potion effect
+    usage: /he <add|remove|list> ...
+    aliases: [heldeffect]
